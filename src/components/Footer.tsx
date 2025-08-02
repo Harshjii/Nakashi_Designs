@@ -19,11 +19,11 @@ const Footer = () => {
               <div className="flex items-center space-x-3 mb-6">
                 <img 
                   src="/logo.jpg" 
-                  alt="Nakash Designs Logo" 
+                  alt="Nakashi Designs Logo" 
                   className="w-16 h-16 rounded-full object-cover"
                 />
                 <div>
-                  <h3 className="text-2xl font-serif font-bold">Nakash Designs</h3>
+                  <h3 className="text-2xl font-serif font-bold">Nakashi Designs</h3>
                   <p className="text-amber-300 font-light">DESIGNS BY H&I</p>
                 </div>
               </div>
@@ -160,7 +160,7 @@ const Footer = () => {
           <div className="border-t border-emerald-700 pt-8">
             <div className="flex flex-col md:flex-row justify-between items-center space-y-4 md:space-y-0">
               <div className="text-emerald-200 text-sm">
-                © 2024 Nakash Designs. All rights reserved.
+                © 2024 Nakashi Designs. All rights reserved.
               </div>
               <div className="flex items-center space-x-2 text-emerald-200 text-sm">
                 <span>Made with</span>

@@ -60,11 +60,11 @@ const Hero = () => {
           <div className="mb-8 animate-fade-in">
             <img 
               src="/logo.jpg" 
-              alt="Nakash Designs Logo" 
+              alt="Nakashi Designs Logo" 
               className="w-24 h-24 rounded-full object-cover mx-auto mb-4 shadow-2xl"
             />
             <h1 className="text-4xl md:text-6xl font-serif font-bold text-white mb-2 drop-shadow-lg">
-              Nakash Designs
+              Nakashi Designs
             </h1>
             <p className="text-amber-300 font-light text-lg tracking-wider">DESIGNS BY H&I</p>
           </div>

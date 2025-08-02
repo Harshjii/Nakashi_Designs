@@ -25,7 +25,7 @@ const About = () => {
               </h3>
               
               <p className="text-lg text-gray-700 leading-relaxed">
-                At Nakash Designs, we believe in the raw, unfiltered beauty of Indian craftsmanship. 
+                At Nakashi Designs, we believe in the raw, unfiltered beauty of Indian craftsmanship. 
                 Our journey began with a simple vision: to celebrate the authentic spirit of womanhood 
                 through handcrafted clothing that speaks to the soul.
               </p>
@@ -92,7 +92,7 @@ const About = () => {
               "True beauty is not about perfection, it's about embracing your authentic self 
               and letting your inner strength shine through."
             </blockquote>
-            <cite className="text-amber-600 font-semibold text-lg">- Nakash Designs Philosophy</cite>
+            <cite className="text-amber-600 font-semibold text-lg">- Nakashi Designs Philosophy</cite>
           </div>
         </div>
       </div>

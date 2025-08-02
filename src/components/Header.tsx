@@ -31,11 +31,11 @@ const Header = () => {
           <div className="flex items-center space-x-3">
             <img 
               src="/logo.jpg" 
-              alt="Nakash Designs Logo" 
+              alt="Nakashi Designs Logo" 
               className="w-12 h-12 rounded-full object-cover"
             />
             <div>
-              <h1 className="text-xl font-serif font-bold text-emerald-800">Nakash Designs</h1>
+              <h1 className="text-xl font-serif font-bold text-emerald-800">Nakashi Designs</h1>
               <p className="text-xs text-emerald-600 font-light">DESIGNS BY H&I</p>
             </div>
           </div>
