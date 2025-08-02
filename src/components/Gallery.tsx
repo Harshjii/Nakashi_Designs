@@ -6,32 +6,32 @@ const Gallery = () => {
 
   const galleryImages = [
     {
-      src: 'https://images.pexels.com/photos/8148577/pexels-photo-8148577.jpeg?auto=compress&cs=tinysrgb&w=800&h=1000&fit=crop',
+      src: '/hero1.jpg',
       quote: 'Embracing tradition with modern confidence',
       caption: 'Authentic beauty in every thread'
     },
     {
-      src: 'https://images.pexels.com/photos/8148579/pexels-photo-8148579.jpeg?auto=compress&cs=tinysrgb&w=800&h=1000&fit=crop',
+      src: '/hero2.jpg',
       quote: 'Strength lies in staying true to yourself',
       caption: 'Unfiltered elegance'
     },
     {
-      src: 'https://images.pexels.com/photos/8148578/pexels-photo-8148578.jpeg?auto=compress&cs=tinysrgb&w=800&h=1000&fit=crop',
+      src: '/hero3.jpg',
       quote: 'Grace is not about perfection, but authenticity',
       caption: 'Raw beauty celebrated'
     },
     {
-      src: 'https://images.pexels.com/photos/8148580/pexels-photo-8148580.jpeg?auto=compress&cs=tinysrgb&w=800&h=1000&fit=crop',
+      src: '/Suits.jpg',
       quote: 'Every woman carries her own unique story',
       caption: 'Stories woven in silk'
     },
     {
-      src: 'https://images.pexels.com/photos/8148581/pexels-photo-8148581.jpeg?auto=compress&cs=tinysrgb&w=800&h=1000&fit=crop',
+      src: '/Formals.jpg',
       quote: 'Beauty blooms when you embrace who you are',
       caption: 'Celebrating individuality'
     },
     {
-      src: 'https://images.pexels.com/photos/8148582/pexels-photo-8148582.jpeg?auto=compress&cs=tinysrgb&w=800&h=1000&fit=crop',
+      src: '/custom.jpg',
       quote: 'Tradition is not about the past, but the future',
       caption: 'Timeless traditions'
     }

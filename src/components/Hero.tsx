@@ -5,9 +5,9 @@ const Hero = () => {
   const [currentImage, setCurrentImage] = useState(0);
   
   const heroImages = [
-    'https://images.pexels.com/photos/8148577/pexels-photo-8148577.jpeg?auto=compress&cs=tinysrgb&w=1920&h=1080&fit=crop',
-    'https://images.pexels.com/photos/8148579/pexels-photo-8148579.jpeg?auto=compress&cs=tinysrgb&w=1920&h=1080&fit=crop',
-    'https://images.pexels.com/photos/8148578/pexels-photo-8148578.jpeg?auto=compress&cs=tinysrgb&w=1920&h=1080&fit=crop'
+    '/hero1.jpg',
+    '/hero2.jpg',
+    '/hero3.jpg'
   ];
 
   useEffect(() => {

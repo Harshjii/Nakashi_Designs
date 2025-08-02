@@ -4,28 +4,28 @@ import { ArrowRight } from 'lucide-react';
 const Collection = () => {
   const categories = [
     {
-      name: 'Sarees',
-      image: 'https://images.pexels.com/photos/8148577/pexels-photo-8148577.jpeg?auto=compress&cs=tinysrgb&w=600&h=800&fit=crop',
+      name: 'Formal Suits',
+      image: '/Formals.jpg',
       description: 'Timeless elegance in every drape'
     },
     {
-      name: 'Lehengas',
-      image: 'https://images.pexels.com/photos/8148579/pexels-photo-8148579.jpeg?auto=compress&cs=tinysrgb&w=600&h=800&fit=crop',
+      name: 'Casuals',
+      image: '/Casual suits.jpg',
       description: 'Royal grandeur for special occasions'
     },
     {
       name: 'Suits',
-      image: 'https://images.pexels.com/photos/8148578/pexels-photo-8148578.jpeg?auto=compress&cs=tinysrgb&w=600&h=800&fit=crop',
+      image: '/Suits.jpg',
       description: 'Contemporary comfort with traditional charm'
     },
     {
       name: 'Kurtis',
-      image: 'https://images.pexels.com/photos/8148580/pexels-photo-8148580.jpeg?auto=compress&cs=tinysrgb&w=600&h=800&fit=crop',
+      image: '/Kurti.jpg',
       description: 'Versatile pieces for everyday elegance'
     },
     {
       name: 'Custom Orders',
-      image: 'https://images.pexels.com/photos/8148581/pexels-photo-8148581.jpeg?auto=compress&cs=tinysrgb&w=600&h=800&fit=crop',
+      image: '/hero2.jpg',
       description: 'Bespoke designs crafted just for you'
     }
   ];
