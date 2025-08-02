@@ -73,7 +73,7 @@ const About = () => {
             <div className="relative">
               <div className="relative overflow-hidden rounded-2xl shadow-2xl">
                 <img
-                  src="https://images.pexels.com/photos/8148580/pexels-photo-8148580.jpeg?auto=compress&cs=tinysrgb&w=800&h=1000&fit=crop"
+                  src="/Kurti.jpg"
                   alt="Artisan crafting traditional Indian clothing"
                   className="w-full h-[600px] object-cover"
                 />
